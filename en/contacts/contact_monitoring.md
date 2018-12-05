@@ -272,9 +272,9 @@ Action allow send custom event to [Google Analytics](https://developers.google.c
 
 ##### How to test Google Analytics tracking code and campaign action
 
-- Install [Tag assistent](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) and enable recording on your website 
+- Install [Tag assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk) and enable recording on your website 
 - Create campaign with Visits a page decision and  Send tracking event action 
-- Test it and see Tag assistent debug window with one Pageview request and 1 events
+- Test it and see the Tag assistant debug window with one Pageview request and 1 events
 
 ![](/contacts/media/google-analytics-tag-assistent.png)
 
